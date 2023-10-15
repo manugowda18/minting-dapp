@@ -19,13 +19,13 @@ const Navbar = ({ accounts, setAccounts }) => {
         <Flex justifyContent="space-between" align="center" padding="30px">
             {/* left nav */}
             <Flex justify="space-around" width="40%" padding="0 75px">
-                <Link href='manoj.tk'>
+                <Link href='#'>
                     <Image src={Facebook} boxSize="42px" margin="0 15px" />
                 </Link>
-                <Link href='manoj.tk'>
+                <Link href='#'>
                     <Image src={Tweeter} boxSize="42px" margin="0 15px" />
                 </Link>
-                <Link href='manoj.tk'>
+                <Link href='#'>
                     <Image src={Email} boxSize="42px" margin="0 15px" />
                 </Link>
             </Flex>
