@@ -20,4 +20,3 @@ function App() {
 
 export default App;
 
-//opm to ether scan : https://goerli.etherscan.io/address/0x7EA81F97F5C4D140E2822deA43527cb3FAa30471#code
